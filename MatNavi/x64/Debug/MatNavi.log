@@ -1,0 +1,17 @@
+﻿  uic FileLoad.ui
+  uic MatNavi.ui
+  uic SearchLoc.ui
+  uic ViewTip.ui
+  rcc MatNavi.qrc
+  SearchLoc.cpp
+  ViewTip.cpp
+  FileLoad.cpp
+  logiclayer.cpp
+  MatNavi.cpp
+  main.cpp
+  moc_MatNavi.cpp
+  moc_SearchLoc.cpp
+  moc_ViewTip.cpp
+  moc_FileLoad.cpp
+  qrc_MatNavi.cpp
+  MatNavi.vcxproj -> D:\VS_work\cpp\ex5_MatNavi\x64\Debug\MatNavi.exe

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MatNavi">
+        <file>hustmap.bmp</file>
+    </qresource>
+</RCC>
